@@ -328,7 +328,7 @@ img[src=""] {
     background-color: white;
     /* Background color in case image fails to load */
     border-radius: 10px;
-    background-image: url('.../Media/qr.png');
+    background-image: url('../Media/qr.png');
     /* Replace this URL with your QR code */
     background-size: cover;
     background-position: center;
