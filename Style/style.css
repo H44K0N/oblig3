@@ -11,7 +11,7 @@ body {
 /* General Page Styles */
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url('/Media/Background-image.jpg');
+    background-image: url('../Media/Background-image.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
